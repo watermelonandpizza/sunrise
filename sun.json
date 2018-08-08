@@ -1,7 +1,7 @@
 {
   "coverThing": "2.0",
-  "coverPin": "2",
-  "harPin": "2",
+  "coverPin": "0",
+  "harPin": "0",
   "trig": "https://raw.githubusercontent.com/msay2/Simple-AppUpdaterJSON-/master/app.apk",
   "tlag": [
     "- Améliorations apportées",
