@@ -1,9 +1,9 @@
 {
-  "versionName": "2.0",
-  "versionCode": "0",
-  "rtcode": "0",
-  "url": "https://raw.githubusercontent.com/msay2/Simple-AppUpdaterJSON-/master/app.apk",
-  "release": [
+  "coverThing": "2.0",
+  "coverPin": "2",
+  "harPin": "2",
+  "trig": "https://raw.githubusercontent.com/msay2/Simple-AppUpdaterJSON-/master/app.apk",
+  "tlag": [
     "- Améliorations apportées",
     "- Nouveau support !",
     "- Corrections de quelques bogues"
