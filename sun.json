@@ -1,0 +1,11 @@
+{
+  "versionName": "2.0",
+  "versionCode": "0",
+  "rtcode": "0",
+  "url": "https://raw.githubusercontent.com/msay2/Simple-AppUpdaterJSON-/master/app.apk",
+  "release": [
+    "- Améliorations apportées",
+    "- Nouveau support !",
+    "- Corrections de quelques bogues"
+  ]
+}
